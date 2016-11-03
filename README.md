@@ -16,4 +16,6 @@ Master the ProgressView in Android
 
 - [CircleProgress](https://github.com/Fichardu/CircleProgress)
 
+- [GaugeView](https://github.com/CodeAndMagic/GaugeView)
+
 - [water-wave-progress](https://github.com/Modificator/water-wave-progress)
